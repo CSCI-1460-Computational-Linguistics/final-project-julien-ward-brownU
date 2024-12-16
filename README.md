@@ -15,9 +15,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 
 
 1. Download the notebook.
-2. Download the [date](https://drive.google.com/drive/folders/1Ln1gkniXNicOSv_n9h4I8XDDXAgaJjq6?usp=sharing)
 2. Download *student.pkl*. 
 2. OPTIONAL- Download *lda_feature_embeddings.pkl* and *roberta_batch_embeddings.pkl*
+2. Download the [data here](https://drive.google.com/drive/folders/1Ln1gkniXNicOSv_n9h4I8XDDXAgaJjq6?usp=sharing)
 
 ### With all optional pkl files downloaded (Run's faster):
 1. Run all the previous cells before main() 
